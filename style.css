@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://previews.123rf.com/images/kotkoa/kotkoa1504/kotkoa150400102/39041989-abstract-blue-light-background-for-science-design-vector-illustration-.jpg)
+}
+
+h1 {
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 150%;
+}
+
+#start-button {
+    color: black;
+    background-color: coral;
+}
+
+#timerFinal {
+    font-size: xx-large;
+}
+
+#question-display {
+    font-size: larger
+}
+
+
+#choice-A, #choice-A2, #choice-A3, #choice-A4, #choice-A5 {
+    background-color: red;
+    margin: 10px;
+
+}
+
+#choice-B, #choice-B2, #choice-B3, #choice-B4, #choice-B5 {
+    background-color: seagreen;
+    margin: 10px;
+}
+
+#choice-C, #choice-C2, #choice-C3, #choice-C4, #choice-C5 {
+    background-color: steelblue;
+    margin: 10px;
+}
+
+#choice-D, #choice-D2, #choice-D3, #choice-D4, #choice-D5 {
+    background-color: goldenrod;
+    margin: 10px;
+}
+
+#score-counter {
+    font-weight: bolder;
+}
+
+#high-score {
+    font-weight: bolder;
+}
